@@ -2,8 +2,6 @@ The House of Representatives shall be composed of Members chosen every second Ye
 
 No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State in which he shall be chosen.
 
-> TODO: Removed "direct Taxes" apportioned, obsolete?
-
 > TODO: Integrate 19th Amendment, remove "male" references
 
 > TODO: Voting age is 18
