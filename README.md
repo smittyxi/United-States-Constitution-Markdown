@@ -6,7 +6,6 @@ TODO:
 U.S. Constitution in a modularized markdown format.
 
 Forked from GitHub sartaj/United-States-Constitution-markdown
-
 https://github.com/sartaj/United-States-Constitution-Markdown
 
 # Overview
