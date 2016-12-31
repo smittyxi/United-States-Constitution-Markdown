@@ -17,16 +17,17 @@ Intended for drafting a US Constitution vNext. Started as a project to develop s
 
 # Branches
 
-1. MASTER - Active version of the US Constitution
-    * Formatting - format only, no content changes
-2. Draft - with all accepted changes, submit via *Pull Request*
+1. **master** - Active version of the US Constitution
+    * **formatting** - format only, no content changes
+2. **draft** - with all accepted changes, submit via *Pull Request*
 3. Working Branches
-    * Equality - effort to integrate civil rights, voting rights and other equal rights measures from amendments and accepted case precedent
-    * Procedure - Refreshing government procedures
-    * Prohibition - Reconcile alcohol prohibition
-    * States - Changes related to state and state's rights
-    * Voting - Update voting
-    * Etc.
+    * **equality** - effort to integrate civil rights, voting rights and other equal rights measures from amendments and accepted case precedent
+    * **procedure** - Refreshing government procedures
+    * **billofrights** - Convert amendments that add additional rights to formal bill or rights
+    * **prohibition** - Reconcile alcohol prohibition
+    * **states** - Changes related to state and state's rights
+    * **voting** - Update voting
+    * etc.
 
 # References
 
