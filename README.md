@@ -35,6 +35,3 @@ Intended for drafting a US Constitution vNext. Started as a project to develop s
 >
 > *Jefferson to H. Tompkinson (AKA Samuel Kercheval), July 12, 181610*
 > https://en.support.wordpress.com/markdown-quick-reference/ - retrieved Nov 29, 2016
-
-
-
