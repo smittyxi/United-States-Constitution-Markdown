@@ -1,3 +1,3 @@
-The times, places and manner of holding elections for senators and representatives, shall be prescribed in each state by the legislature thereof; but the Congress may at any time by law make or alter such regulations, except as to the places of chusing senators.
+The times, places and manner of holding elections for senators and representatives, shall be prescribed in each state by the legislature thereof; but the Congress may at any time by law make or alter such regulations, except as to the places of choosing senators.
 
 The Congress shall assemble at least once in every year, and such meeting shall be on the first Monday in December, unless they shall by law appoint a different day.
