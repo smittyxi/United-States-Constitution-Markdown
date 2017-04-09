@@ -1,36 +1,36 @@
-The Congress shall have Power To lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts and provide for the common Defence and general Welfare of the United States; but all Duties, Imposts and Excises shall be uniform throughout the United States;
+The Congress shall have power To lay and collect taxes, duties, imposts and excises, to pay the debts and provide for the common defense and general welfare of the United States; but all duties, imposts and excises shall be uniform throughout the United States;
 
-To borrow Money on the credit of the United States;
+To borrow money on the credit of the United States;
 
-To regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes;
+To regulate commerce with foreign nations, and among the several states, and with the Indian tribes;
 
-To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the United States;
+To establish an uniform rule of naturalization, and uniform laws on the subject of bankruptcies throughout the United States;
 
-To coin Money, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures;
+To coin money, regulate the value thereof, and of foreign coin, and fix the standard of weights and measures;
 
-To provide for the Punishment of counterfeiting the Securities and current Coin of the United States;
+To provide for the punishment of counterfeiting the securities and current coin of the United States;
 
-To establish Post Offices and post Roads;
+To establish post offices and post roads;
 
-To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries;
+To promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries;
 
-To constitute Tribunals inferior to the supreme Court;
+To constitute tribunals inferior to the Supreme Court;
 
-To define and punish Piracies and Felonies committed on the high Seas, and Offences against the Law of Nations;
+To define and punish piracies and felonies committed on the high Seas, and offenses against the law of nations;
 
-To declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land and Water;
+To declare war, grant letters of marque and reprisal, and make rules concerning captures on land and water;
 
-To raise and support Armies, but no Appropriation of Money to that Use shall be for a longer Term than two Years;
+To raise and support armies, but no appropriation of money to that use shall be for a longer term than two years;
 
-To provide and maintain a Navy;
+To provide and maintain a navy;
 
-To make Rules for the Government and Regulation of the land and naval Forces;
+To make rules for the government and regulation of the land and naval forces;
 
-To provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions;
+To provide for calling forth the militia to execute the laws of the union, suppress insurrections and repel invasions;
 
-To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the United States, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress;
+To provide for organizing, arming, and disciplining, the militia, and for governing such part of them as may be employed in the service of the United States, reserving to the states respectively, the appointment of the officers, and the authority of training the militia according to the discipline prescribed by Congress;
 
-To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government of the United States, and to exercise like Authority over all Places purchased by the Consent of the Legislature of the State in which the Same shall be, for the Erection of Forts, Magazines, Arsenals, dock-Yards, and other needful Buildings;—And
+To exercise exclusive legislation in all cases whatsoever, over such district (not exceeding ten miles square) as may, by cession of particular states, and the acceptance of Congress, become the seat of the government of the United States, and to exercise like authority over all places purchased by the consent of the legislature of the state in which the same shall be, for the erection of forts, magazines, arsenals, dock-yards, and other needful buildings;—And
 
-To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof.
+To make all laws which shall be necessary and proper for carrying into execution the foregoing powers, and all other powers vested by this Constitution in the government of the United States, or in any department or officer thereof.
 
