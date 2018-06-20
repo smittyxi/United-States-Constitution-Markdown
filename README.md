@@ -33,5 +33,5 @@ Intended for drafting a US Constitution vNext. Started as a project to develop s
 
 > "I am certainly not an advocate for frequent and untried changes in laws and constitutions. I think moderate imperfections had better be borne with; because, when once known, we accommodate ourselves to them, and find practical means of correcting their ill effects. But I know also, that laws and institutions must go hand in hand with the progress of the human mind. As that becomes more developed, more enlightened, as new discoveries are made, new truths disclosed, and manners and opinions change with the change of circumstances, institutions must advance also, and keep pace with the times. We might as well require a man to wear still the coat which fitted him when a boy, as civilized society to remain ever under the regimen of their barbarous ancestors." 
 >
-> *Jefferson to H. Tompkinson (AKA Samuel Kercheval), July 12, 181610*
-> https://en.support.wordpress.com/markdown-quick-reference/ - retrieved Nov 29, 2016
+> *Jefferson to H. Tompkinson (AKA Samuel Kercheval), July 12, 1816*
+> PoC (DLC); at foot of first page in TJ’s hand: “H. Tompkinson, esq. a pseudonomy for Samuel Kerchival.” Published in PTJRS, 10:220–8. http://tjrs.monticello.org/letter/1384 - retrieved Nov 29, 2016
